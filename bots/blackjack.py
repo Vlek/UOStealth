@@ -1,4 +1,4 @@
-#Event-based Blackjack NPC by Vlek, Leader of the Bloodskull Clan
+#Event-based Blackjack NPC by Vlek
 
 """Todo list:
 
